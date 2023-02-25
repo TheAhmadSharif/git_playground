@@ -1,0 +1,10 @@
+Tracked Fiels
+git ls-files -s
+
+
+
+If you want to list all the files currently being tracked under the branch master, y
+git ls-tree -r main --name-only
+
+
+https://docs.github.com/en/search?query=-m
